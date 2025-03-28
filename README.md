@@ -1,8 +1,8 @@
 
 # Thespeakerlab member data scraper
 
-This script based on member data scrap from https://thespeakerlab.com/
-Note: Need to purchase a premium account from here
+- This script based on member data scrap from https://thespeakerlab.com/
+- Note: Need to purchase a premium account from here
 
 
 ## What you will get:

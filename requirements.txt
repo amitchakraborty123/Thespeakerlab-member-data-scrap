@@ -1,0 +1,6 @@
+pandas==2.0.3
+bs4==0.0.1
+lxml==4.9.3
+selenium==4.28.1
+datetime==5.2
+webdriver_manager==4.0.2
